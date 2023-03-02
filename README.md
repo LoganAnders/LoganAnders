@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoganAnders
-- 👀 I’m interested in creating robots, backend devolopment, and algorithms that simulate processes in nature 
-- 🌱 I’m currently learning data science stuff
+- 👀 I’m interested in creating robots, Game devolopment, and algorithms that simulate processes in nature.
+- 🌱 I’m currently learning Pytorch
 - 📫 How to reach me == lsprague6996@gmail.com
 
 <!---
