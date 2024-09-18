@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoganAnders
-- 👀 Im mostly interested in computational science. 
-- 🌱 I’m currently learning Pytorch
+- 👀 Im mostly interested in computational science, Physics, and Neuroscience
+- 🌱 I’m currently learning Pytorch framework
 - 📫 How to reach me == lsprague6996@gmail.com
 
 <!---
