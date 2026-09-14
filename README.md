@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @LoganAnders
-- 👀 Im mostly interested in Computational Science, Physics, and Neuroscience
+
 - 📫 How to reach me == lsprague6996@gmail.com
 
 <!---
